@@ -1,0 +1,19 @@
+{
+  "name": "BTX Prontuário SOAP + Agenda",
+  "short_name": "BTX Prontuário",
+  "description": "Prontuário SOAP com histórico, agenda e receituário. Offline-first com IndexedDB e backup.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7fbff",
+  "theme_color": "#1458d6",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
